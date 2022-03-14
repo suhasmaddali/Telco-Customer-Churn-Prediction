@@ -6,6 +6,8 @@
 
 __Telephone__ company, also known as __telco__, is a telecommunications providers that provides services such as __telephony__ and __data communications access__. They are mainly responsibility of providing the phone services to people in different parts of the United States of America. What makes things interesting is that there are a lot of customers who use communication services from Telco. There are customers who also opt for other services such as TV Streaming and movies streaming. Telco is at present not able to accurately predict whether a given customer who subscribes to the service is willing to churn (leave the service) or not. If they could know with a good accuracy, they would be able to come up with plans and services to those users who are willing to leave the service respectively. 
 
-Since __Telco__ gets a lot of customers who __subscribe__ to their service, it is handy if we are able to predict whether a __customer__ is going to __churn (leave the service)__ within a span of a fwe days. Furthermore, it would be great if we could consider factors which are __influential__ in the churn of customers such as the __type of billing__, __age__ and whether they have a __partner or not__. After taking a look at these factors and many others which influence customer churn, they might come up with plans that ensure that customers do not leave their services.
-
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Telco%20Customer%20Churn%20Background%20Image.jpg" />
+
+## Machine Learning and Data Science 
+
+Since __Telco__ gets a lot of customers who __subscribe__ to their service, it is handy if we are able to predict whether a __customer__ is going to __churn (leave the service)__ within a span of a fwe days. Furthermore, it would be great if we could consider factors which are __influential__ in the churn of customers such as the __type of billing__, __age__ and whether they have a __partner or not__. After taking a look at these factors and many others which influence customer churn, they might come up with plans that ensure that customers do not leave their services.
