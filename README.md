@@ -15,8 +15,9 @@ Since __Telco__ gets a lot of customers who __subscribe__ to their service, it i
 ## Exploratory Data Analysis (EDA)
 
 * Based on the __exploratory data analysis (EDA)__, it was found that the monthly charges for customers is highly correlated with whether the customers opted for fiber optic connection.
-* A large proportion of customers opted for month-to-month contracts rather than year-long or two-year long contracts respectively.
-* Monthly charges are correlated with whether a person is a senior or not. Therefore, this gives us a good insight that senior citizens are likely going to be enrolling in other services such as movies streaming service and internet services respectively.
+* A large proportion of customers opted for __month-to-month__ contracts rather than __year-long__ or __two-year__ long contracts respectively.
+* Monthly charges are correlated with whether a person is a __senior__ or not. Therefore, this gives us a good insight that senior citizens are likely going to be enrolling in other services such as __movies streaming services__ and __internet services__ respectively.
+* Based on the plots, it was seen that device protection plans led to a significant increase in the monthly charges as well. 
 
 ## Metrics Used
 
