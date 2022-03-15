@@ -16,7 +16,7 @@ Since __Telco__ gets a lot of customers who __subscribe__ to their service, it i
 
 Since the output variable is discrete (0 or 1), it is a binary classification problem with the possibilities being whether a customer is going to churn or not. Therefore, the metrics that were considered for the classification problem are as follows.
 
-* Log Loss
+* Logistic Loss
 * Precision
 * Recall
 * F1 Score
