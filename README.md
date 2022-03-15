@@ -12,6 +12,16 @@ __Telephone__ company, also known as __telco__, is a telecommunications provider
 
 Since __Telco__ gets a lot of customers who __subscribe__ to their service, it is handy if we are able to predict whether a __customer__ is going to __churn (leave the service)__ within a span of a few days. Furthermore, it would be great if we could consider factors which are __influential__ in the churn of customers such as the __type of billing__, __age__ and whether they have a __partner or not__. After taking a look at these factors and many others which influence customer churn, they might come up with plans that ensure that customers do not leave their services.
 
+## Metrics Used
+
+Since the output variable is discrete (0 or 1), it is a binary classification problem with the possibilities being whether a customer is going to churn or not. Therefore, the metrics that were considered for the classification problem are as follows.
+
+* Log Loss
+* Precision
+* Recall
+* F1 Score
+* ROC AUC Curves
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
