@@ -23,6 +23,10 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 * __ROC AUC Curves__
 * __Confusion Matrix__
 
+## Outcomes
+
+* Based on the __exploratory data analysis (EDA)__, it was found that the monthly charges for customers is highly correlated with whether the customers opted for fiber optic connection.
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
