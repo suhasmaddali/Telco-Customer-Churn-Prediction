@@ -23,7 +23,7 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 * __ROC AUC Curves__
 * __Confusion Matrix__
 
-## Outcomes
+## Exploratory Data Analysis (EDA)
 
 * Based on the __exploratory data analysis (EDA)__, it was found that the monthly charges for customers is highly correlated with whether the customers opted for fiber optic connection.
 * A large proportion of customers opted for month-to-month contracts rather than year-long or two-year long contracts respectively.
