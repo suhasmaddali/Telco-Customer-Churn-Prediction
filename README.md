@@ -35,7 +35,7 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
-* __More training data__ could be collected to ensure that we get a better prediction outcomes. 
+* __More training data__ could be collected to ensure that we get better prediction outcomes. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
