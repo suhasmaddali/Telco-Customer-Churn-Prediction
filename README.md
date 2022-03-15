@@ -14,7 +14,7 @@ Since __Telco__ gets a lot of customers who __subscribe__ to their service, it i
 
 ## Metrics Used
 
-Since the output variable is discrete (0 or 1), it is a binary classification problem with the possibilities being whether a customer is going to churn or not. Therefore, the metrics that were considered for the classification problem are as follows.
+Since the output variable is discrete (0 or 1), it is a __binary classification problem__ with the possibilities being whether a customer is going to __churn__ or __not__. Therefore, the metrics that were considered for the __classification__ problem are as follows.
 
 * __Logistic Loss__
 * __Precision__
