@@ -21,6 +21,7 @@ Since the output variable is discrete (0 or 1), it is a binary classification pr
 * Recall
 * F1 Score
 * ROC AUC Curves
+* Confusion Matrix
 
 ## 👉 Directions to download the repository and run the notebook 
 
