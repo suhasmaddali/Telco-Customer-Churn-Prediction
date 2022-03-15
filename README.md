@@ -30,6 +30,8 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 * Monthly charges are correlated with whether a person is a senior or not. Therefore, this gives us a good insight that senior citizens are likely going to be enrolling in other services such as movies streaming service and internet services respectively.
 
 ## Future Scope
+* Additional features such as the location of the customer could be added which would also help in determining whether a person is going to stay in the telco service or not.
+* 
 
 ## 👉 Directions to download the repository and run the notebook 
 
