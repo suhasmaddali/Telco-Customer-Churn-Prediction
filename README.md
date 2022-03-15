@@ -12,6 +12,12 @@ __Telephone__ company, also known as __telco__, is a telecommunications provider
 
 Since __Telco__ gets a lot of customers who __subscribe__ to their service, it is handy if we are able to predict whether a __customer__ is going to __churn (leave the service)__ within a span of a few days. Furthermore, it would be great if we could consider factors which are __influential__ in the churn of customers such as the __type of billing__, __age__ and whether they have a __partner or not__. After taking a look at these factors and many others which influence customer churn, they might come up with plans that ensure that customers do not leave their services.
 
+## Exploratory Data Analysis (EDA)
+
+* Based on the __exploratory data analysis (EDA)__, it was found that the monthly charges for customers is highly correlated with whether the customers opted for fiber optic connection.
+* A large proportion of customers opted for month-to-month contracts rather than year-long or two-year long contracts respectively.
+* Monthly charges are correlated with whether a person is a senior or not. Therefore, this gives us a good insight that senior citizens are likely going to be enrolling in other services such as movies streaming service and internet services respectively.
+
 ## Metrics Used
 
 Since the output variable is discrete (0 or 1), it is a __binary classification problem__ with the possibilities being whether a customer is going to __churn__ or __not__. Therefore, the metrics that were considered for the __classification__ problem are as follows.
@@ -23,11 +29,7 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 * __ROC AUC Curves__
 * __Confusion Matrix__
 
-## Exploratory Data Analysis (EDA)
 
-* Based on the __exploratory data analysis (EDA)__, it was found that the monthly charges for customers is highly correlated with whether the customers opted for fiber optic connection.
-* A large proportion of customers opted for month-to-month contracts rather than year-long or two-year long contracts respectively.
-* Monthly charges are correlated with whether a person is a senior or not. Therefore, this gives us a good insight that senior citizens are likely going to be enrolling in other services such as movies streaming service and internet services respectively.
 
 ## Future Scope
 * Additional features such as the location of the customer could be added which would also help in determining whether a person is going to stay in the telco service or not.
