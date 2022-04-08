@@ -24,9 +24,9 @@ Since __Telco__ gets a lot of customers who __subscribe__ to their service, it i
 Since the output variable is discrete (0 or 1), it is a __binary classification problem__ with the possibilities being whether a customer is going to __churn__ or __not__. Therefore, the metrics that were considered for the __classification__ problem are as follows.
 
 * [__Accuracy__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
-* __Logistic Loss__
-* __Precision__
-* __Recall__
+* [__Logistic Loss__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
+* [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
+* [__Recall__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
 * __F1 Score__
 * __ROC AUC Curves__
 * __Confusion Matrix__
