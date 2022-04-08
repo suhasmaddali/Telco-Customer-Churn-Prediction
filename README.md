@@ -27,7 +27,7 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 * [__Logistic Loss__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
 * [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
 * [__Recall__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
-* __F1 Score__
+* [__F1 Score__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
 * __ROC AUC Curves__
 * __Confusion Matrix__
 
