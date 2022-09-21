@@ -33,7 +33,7 @@ Since the output variable is discrete (0 or 1), it is a __binary classification 
 
 ## Machine Learning Models
 
-There are a large number of machine learning models used in the prediction of the demand for __Washington Bikes__. Below are the models that were used for prediction.
+There are a large number of machine learning models used in the prediction of the demand for __customer churn__ in __Telco__. Below are the models that were used for prediction.
 
 * [__Decision Tree Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 * [__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
