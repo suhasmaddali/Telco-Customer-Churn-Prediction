@@ -43,6 +43,10 @@ There are a large number of machine learning models used in the prediction of __
 
 ## Visualizations
 
+In this section, we mainly focus on important visualizations derived as a result of performing exploratory data analysis, feature engineering and machine learning model predictions. 
+
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Input%20data.jpg"/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
