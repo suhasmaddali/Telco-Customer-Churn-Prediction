@@ -41,6 +41,8 @@ There are a large number of machine learning models used in the prediction of __
 * [__Random Forest Classifier__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
 * [__Gradient Boosting Classifier__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 
+## Visualizations
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
