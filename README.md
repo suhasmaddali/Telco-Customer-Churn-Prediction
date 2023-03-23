@@ -43,9 +43,15 @@ There are a large number of machine learning models used in the prediction of __
 
 ## Visualizations
 
-In this section, we mainly focus on important visualizations derived as a result of performing exploratory data analysis, feature engineering and machine learning model predictions. 
+In this section, we focus on the most important **visualizations** that result from exploratory data analysis, feature engineering, and machine learning model predictions. These visualizations can help us to understand the data better and to make better decisions about how to model it.
+
+The image shows the **input** data, highlighting a list of features and attributes that can be used by ML models to make predictions about customer churn. This information can be used to create more accurate models and to improve the performance of our predictions. Note that the image only shows a few set of features. There are more features in the dataset but this is used only for illustration purposes. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Input%20data.jpg"/>
+
+We can now understand the total number of missing values from each of the features. Missingno plots can be used to show a list of missing values from the features. It clearly indicates that there are less number of missing values in the data. 
+
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Missingno%20plot.jpg"/>
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
