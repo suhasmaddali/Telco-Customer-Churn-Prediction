@@ -49,11 +49,11 @@ The image shows the **input** data, highlighting a list of features and attribut
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Input%20data.jpg"/>
 
-We can now understand the total number of missing values from each of the features. Missingno plots can be used to show a list of missing values from the features. It clearly indicates that there are less number of missing values in the data. 
+We can now understand the total number of missing values from each of the features. **Missingno** plots can be used to show a list of missing values from the features. It clearly indicates that there are less number of missing values in the data. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Missingno%20plot.jpg"/>
 
-The data used for the list of features is represented in the figure below, which shows that there are no missing or null values in the data. The features are categorized as float64, int64, and object types, indicating that the data consists of numerical and non-numerical variables.
+The data used for the list of features is **represented** in the figure below, which shows that there are no missing or null values in the data. The features are categorized as float64, int64, and object types, indicating that the data consists of numerical and non-numerical variables.
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Dataset%20Info.jpg"/>
 
