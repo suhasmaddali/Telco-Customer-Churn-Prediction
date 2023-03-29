@@ -65,7 +65,7 @@ The following figure illustrates the **partner** category and provides informati
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Partner%20countplot.jpg"/>
 
-The majority of customers appear to opt for Fiber optic connections over DSLs, with only a small number choosing neither option. It would be interesting to investigate the extent to which each type of connection impacts customer churn behavior.
+The majority of customers appear to opt for **Fiber optic** connections over **DSLs**, with only a small number choosing neither option. It would be interesting to investigate the extent to which each type of connection impacts customer churn behavior.
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Internet%20Service%20countplot.jpg"/>
 
