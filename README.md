@@ -57,6 +57,8 @@ The data used for the list of features is **represented** in the figure below, w
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Dataset%20Info.jpg"/>
 
+The plot below displays the total number of data points categorized by **gender**. The number of male and female participants appears to be roughly equal, indicating that there is no significant class imbalance. Therefore, metrics such as accuracy can be used with confidence in evaluating the model's performance.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Gender%20countplot.jpg"/>
 
 ## Future Scope
