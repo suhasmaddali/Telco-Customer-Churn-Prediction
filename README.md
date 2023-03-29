@@ -61,6 +61,10 @@ The plot below displays the total number of data points categorized by **gender*
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Gender%20countplot.jpg"/>
 
+The following figure illustrates the **partner** category and provides information on whether the individuals considered for churning from a service had partners or not. The data shows that there are slightly more individuals who do not have partners than those who do, indicating a **slight** class imbalance. 
+
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Partner%20countplot.jpg"/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
