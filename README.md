@@ -69,6 +69,8 @@ The majority of customers appear to opt for **Fiber optic** connections over **D
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/Internet%20Service%20countplot.jpg"/>
 
+A vast majority of participants in the survey did not take internet backup. There are some category of people who did not even take internet service as well.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Onlinebackup%20countplot.jpg"/>
 
 ## Future Scope
