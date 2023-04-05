@@ -103,7 +103,7 @@ Based on the analysis that the majority of the people in the dataset did not chu
 
 * Provide regular updates and new features: Customers appreciate service providers that continually improve their service. Regular updates and new features can help retain customers and attract new ones.
 
-* Monitor customer feedback: Regularly monitor customer feedback to identify issues or concerns and take necessary steps to address them.
+* Monitor customer feedback: Regularly monitor customer feedback to identify issues or concerns and take necessary steps to address their needs.
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20countplot.jpg"/>
 
