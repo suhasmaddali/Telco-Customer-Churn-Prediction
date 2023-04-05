@@ -91,6 +91,20 @@ By analyzing these potential drivers of churn and monitoring customer behavior o
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Contract%20countplot.jpg"/>
 
+After taking a look at the countplot and analyzing the results, it could be found that there are a lot of people (majority) in the dataset that did not churn from the service. There are only fewer number of people who have churned. 
+
+Based on the analysis that the majority of the people in the dataset did not churn from the service, it is recommended to focus on retaining the existing customers rather than acquiring new ones. The existing customers are already familiar with the service and have had a positive experience, which makes it easier to keep them engaged.
+
+* Improve customer service: Providing excellent customer service is one of the best ways to retain customers. Ensure that all customers' queries and concerns are addressed promptly and effectively.
+
+* Offer loyalty programs: Loyalty programs can incentivize customers to continue using the service. This can be in the form of discounts, free upgrades, or exclusive access to new features.
+
+* Personalize communication: Personalizing communication with customers can create a stronger bond and make them feel valued. Use their name in emails and address their specific needs and concerns.
+
+* Provide regular updates and new features: Customers appreciate service providers that continually improve their service. Regular updates and new features can help retain customers and attract new ones.
+
+* Monitor customer feedback: Regularly monitor customer feedback to identify issues or concerns and take necessary steps to address them.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20countplot.jpg"/>
 
 ## Future Scope
