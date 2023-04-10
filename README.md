@@ -121,6 +121,8 @@ Fiber optic connections have a higher mean monthly price than DSL connections, w
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/MonthlyCharges%20plot.jpg"/>
 
+People who churned on the service had higher monthly charges on average as compared to customers who did not churn on the service. As could be seen, there is an average amount of 80 dollars per month paid by churned customers whereas non-churned customers pay 60 dollars per annum approximately. This can show that price also plays and important role in determining if customers are going to stay in the service or leave it. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/monthlycharges%20vs%20churn%20boxplot.jpg"/>
 
 ## Future Scope
