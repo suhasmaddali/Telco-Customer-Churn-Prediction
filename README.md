@@ -123,6 +123,16 @@ Fiber optic connections have a higher mean monthly price than DSL connections, w
 
 Customers who churned had higher monthly charges on average than non-churned customers, with an average of $80 compared to $60 annually. This shows that pricing is a significant factor in customer retention. Providers should offer competitive pricing packages and incentives to retain customers and reduce churn rates.
 
+Analyze pricing strategy: Providers should analyze their pricing strategy and compare it with their competitors. They should ensure their prices are reasonable and competitive in the market.
+
+Offer customized pricing packages: Providers should offer customized pricing packages that cater to individual customer needs. This can help customers feel valued and reduce the likelihood of switching to competitors.
+
+Provide incentives: Providers should offer incentives such as discounts, loyalty rewards, or other perks to retain their customers. This can encourage customers to stay with the provider and reduce the chances of churn.
+
+Improve customer service: Providers should improve their customer service to ensure that customers are satisfied with their service. Customers who receive quality service are more likely to stay with the provider and less likely to churn.
+
+Monitor customer satisfaction: Providers should regularly monitor customer satisfaction through surveys and other feedback channels. This can help identify areas for improvement and address issues before customers become dissatisfied enough to leave.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/monthlycharges%20vs%20churn%20boxplot.jpg"/>
 
 ## Future Scope
