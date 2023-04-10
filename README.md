@@ -105,6 +105,8 @@ Based on the analysis that the majority of the people in the dataset did not chu
 
 * __Monitor customer feedback:__ Regularly monitor customer feedback to identify issues or concerns and take necessary steps to address their needs.
 
+The total mean monthly prices paid by the people who have taken fiber optic connections are higher as compared to DSL connections. There are people who did not take either of the two and their overall monthly charges that are paid are less. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20countplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/MonthlyCharges%20plot.jpg"/>
