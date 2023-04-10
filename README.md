@@ -105,7 +105,7 @@ Based on the analysis that the majority of the people in the dataset did not chu
 
 * __Monitor customer feedback:__ Regularly monitor customer feedback to identify issues or concerns and take necessary steps to address their needs.
 
-The total mean monthly prices paid by the people who have taken fiber optic connections are higher as compared to DSL connections. There are people who did not take either of the two and their overall monthly charges that are paid are less. 
+Fiber optic connections have a higher mean monthly price than DSL connections, while those who haven't selected either option pay less. This is due to the advanced technology and maintenance required for fiber optic connections. DSL may suffice for those with lower usage needs at a lower cost. To make an informed decision, users should evaluate their individual needs and shop around for the best deal among different providers' pricing packages and promotions.
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20countplot.jpg"/>
 
