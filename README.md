@@ -105,6 +105,8 @@ Based on the analysis that the majority of the people in the dataset did not chu
 
 * __Monitor customer feedback:__ Regularly monitor customer feedback to identify issues or concerns and take necessary steps to address their needs.
 
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20countplot.jpg"/>
+
 Fiber optic connections have a higher mean monthly price than DSL connections, while those who haven't selected either option pay less. This is due to the advanced technology and maintenance required for fiber optic connections. DSL may suffice for those with lower usage needs at a lower cost. To make an informed decision, users should evaluate their individual needs and shop around for the best deal among different providers' pricing packages and promotions.
 
 __Evaluate the benefits and drawbacks of fiber optic and DSL connections:__ Before making a decision, it is essential to understand the advantages and disadvantages of each option. Factors such as speed, reliability, and cost should be considered when choosing between fiber optic and DSL connections.
@@ -116,8 +118,6 @@ __Encourage people to compare prices and services:__ People should be encouraged
 __Educate people about data usage:__ Internet users should be educated about how much data they need for their usage. Some people may be paying for more data than they need, which can drive up their monthly charges.
 
 __Consider other factors that affect monthly charges:__ Monthly charges for internet services can be affected by factors such as bundling, contract length, and promotions. People should be made aware of these factors so they can make informed decisions about their internet service.
-
-<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20countplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/MonthlyCharges%20plot.jpg"/>
 
