@@ -135,8 +135,7 @@ Customers who churned had higher monthly charges on average than non-churned cus
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/monthlycharges%20vs%20churn%20boxplot.jpg"/>
 
-It could be seen from the plot below that people senior citizens in general tend to be paying more monthly charges as compared to the other category who are not seniors. This is true because seniors tend to have more usage from Telco services as compared to non-senior citizens. 
-
+The plot indicates that senior citizens generally pay higher monthly charges compared to non-seniors. This could be attributed to the fact that seniors tend to utilize Telco services more than non-seniors, leading to increased usage and subsequently, higher charges.
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Senior%20citizens%20total%20charges.jpg"/>
 
