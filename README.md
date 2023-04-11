@@ -71,6 +71,17 @@ The majority of customers appear to opt for **Fiber optic** connections over **D
 
 A vast majority of participants in the survey did not take internet backup. There are some category of people who did not even take internet service as well.
 
+Below are some recommendations to be followed by the company to reduce churn rate and increase profits based on the plot below. 
+
+* Offer customized and flexible internet plans that cater to the diverse needs and preferences of customers
+* Provide a variety of data speeds and usage limits to cater to different usage patterns
+* Provide affordable backup options to securely store and access customer data
+* Provide education and support to customers regarding the benefits of internet backup
+* Offer promotions or discounts to incentivize customers to sign up for internet backup
+* Offer value-added services such as bundled offers with other Telco services or complementary software packages
+* Improve overall customer support and service to build stronger relationships with customers
+* By providing more targeted and flexible options for internet plans, as well as improving overall customer support and service, Telco companies can reduce churn rate and increase profitability.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Onlinebackup%20countplot.jpg"/>
 
 The majority of participants chose electronic checks as their preferred payment method, with a smaller portion selecting mailed checks. Additionally, some participants opted for the convenience of automatic credit card payments.
