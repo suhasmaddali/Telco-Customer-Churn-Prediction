@@ -149,7 +149,7 @@ Below are some ways to ensure that there is reduction in the churn rate of custo
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Senior%20citizens%20total%20charges.jpg"/>
 
-People who tend to be using Device Protection plans in their subscription are paying higher total charges as compared to people who did not take internet service or people who took the internet connection but did not opt for device protection plans. 
+Customers who have subscribed to Device Protection plans are paying higher total charges compared to those who did not opt for an internet connection or those who have subscribed to an internet connection but did not choose the device protection plan.
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/>
 
