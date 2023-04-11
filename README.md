@@ -151,6 +151,16 @@ Below are some ways to ensure that there is reduction in the churn rate of custo
 
 Customers who have subscribed to Device Protection plans are paying higher total charges compared to those who did not opt for an internet connection or those who have subscribed to an internet connection but did not choose the device protection plan.
 
+Below are some recommendations that could be followed in order to reduce the churn rate and increase the profits generated. 
+
+* Offer customized Device Protection plans that cater to the individual needs of customers
+* Provide different levels of coverage and pricing options to cater to different budgets and usage patterns
+* Offer promotions or discounts for bundling Device Protection plans with other Telco services
+* Provide better education and support to customers regarding the benefits of Device Protection plans
+* Offer proactive device maintenance and troubleshooting services to minimize the need for claims
+* Improve overall customer support and service to build stronger relationships with customers
+* By providing more targeted and flexible options for Device Protection plans, as well as improving overall customer support and service, Telco companies can reduce churn rate and increase profitability.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/>
 
 ## Future Scope
