@@ -161,7 +161,7 @@ Below are some recommendations that could be followed in order to reduce the chu
 * Improve overall customer support and service to build stronger relationships with customers
 * By providing more targeted and flexible options for Device Protection plans, as well as improving overall customer support and service, Telco companies can reduce churn rate and increase profitability.
 
-<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/><img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges%20barplot.jpg"/>
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg" width = 500/><img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges%20barplot.jpg" width = 500/>
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
