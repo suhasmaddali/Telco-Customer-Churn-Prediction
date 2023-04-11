@@ -137,6 +137,16 @@ Customers who churned had higher monthly charges on average than non-churned cus
 
 The plot indicates that senior citizens generally pay higher monthly charges compared to non-seniors. This could be attributed to the fact that seniors tend to utilize Telco services more than non-seniors, leading to increased usage and subsequently, higher charges.
 
+Below are some ways to ensure that there is reduction in the churn rate of customers. 
+
+* Offer customized Telco plans for senior citizens that cater to their needs and usage patterns
+* Provide discounted rates for services commonly utilized by seniors such as voice calls and text messaging
+* Offer flexible data plans that meet the individual needs of senior citizens
+* Provide personalized customer service and support to senior citizens
+* Assist with technology and device-related issues
+* Offer special promotions or rewards for long-term customers to build loyalty
+* Addressing the unique needs of senior citizens can help reduce churn rate and build stronger relationships with this demographic.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Senior%20citizens%20total%20charges.jpg"/>
 
 ## Future Scope
