@@ -135,6 +135,8 @@ Customers who churned had higher monthly charges on average than non-churned cus
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Images/monthlycharges%20vs%20churn%20boxplot.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Senior%20citizens%20total%20charges.jpg"/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
