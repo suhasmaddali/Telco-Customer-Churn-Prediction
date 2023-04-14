@@ -192,6 +192,8 @@ Below are some recommendations that could be used to reduce the churn rate of va
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20for%20various%20internet%20services.jpg"/>
 
+People who did not opt for paperless payments tend to have higher churn rate than customers who opted for paperless payments. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Paperless%20churn%20barplot.jpg"/>
 
 ## Future Scope
