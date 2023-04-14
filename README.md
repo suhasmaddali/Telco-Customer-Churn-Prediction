@@ -174,6 +174,8 @@ Below are some recommendations that could be followed in order to reduce the chu
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/>
 
+The churn rate is higher for customers who have subscribed to fiber optic internet services compared to those who have opted for DSL. In other words, a greater proportion of customers have left the service among those who have chosen fiber optic as their internet service, while the churn rate is lower for DSL customers.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20for%20various%20internet%20services.jpg"/>
 
 ## Future Scope
