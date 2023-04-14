@@ -176,6 +176,20 @@ Below are some recommendations that could be followed in order to reduce the chu
 
 The churn rate is higher for customers who have subscribed to fiber optic internet services compared to those who have opted for DSL. In other words, a greater proportion of customers have left the service among those who have chosen fiber optic as their internet service, while the churn rate is lower for DSL customers.
 
+Below are some recommendations that could be used to reduce the churn rate of various customers based on the plot.
+
+* Identify the reasons behind the higher churn rate for fiber optic customers and address those issues. This could involve improving service quality, addressing customer complaints promptly, and ensuring that the pricing and subscription plans are competitive.
+
+* Conduct customer surveys to gain a deeper understanding of their needs and preferences. This can help identify areas for improvement and help develop targeted marketing campaigns and offers.
+
+* Provide incentives to loyal customers in the form of discounts, rewards, or special offers. This can help increase customer retention and encourage them to refer new customers.
+
+* Consider offering bundle packages that include internet, phone, and TV services. This can be an attractive option for customers who want a single provider for all their needs.
+
+* Explore partnerships with other companies to offer additional services or products to customers. This can help diversify the offerings and attract new customers.
+
+* Invest in new technologies and infrastructure to improve the quality and speed of the internet services. This can help attract new customers and retain existing ones.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Churn%20for%20various%20internet%20services.jpg"/>
 
 ## Future Scope
