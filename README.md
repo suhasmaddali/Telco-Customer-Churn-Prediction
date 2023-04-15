@@ -174,6 +174,8 @@ Below are some recommendations that could be followed in order to reduce the chu
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/>
 
+Heatmaps give a good representation about the correlation between various features in our dataset. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Heatmap%20correlation.jpg"/>
 
 ## Future Scope
