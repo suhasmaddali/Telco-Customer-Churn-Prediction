@@ -174,7 +174,11 @@ Below are some recommendations that could be followed in order to reduce the chu
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/>
 
-Heatmaps give a good representation about the correlation between various features in our dataset. 
+Heatmaps give a good representation about the correlation between various features in our dataset. Monthly charges are highly correlated with whether someone has a fiber optic connection or not. In addition, whether someone opted for streaming TV services also determines their monthly charge. A lot of people who are on more years of tenure tend to opt for paperless billing. 
+
+
+
+
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Heatmap%20correlation.jpg"/>
 
