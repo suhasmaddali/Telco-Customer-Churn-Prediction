@@ -176,13 +176,13 @@ Below are some recommendations that could be followed in order to reduce the chu
 
 Heatmaps give a good representation about the correlation between various features in our dataset. Monthly charges are highly correlated with whether someone has a fiber optic connection or not. In addition, whether someone opted for streaming TV services also determines their monthly charge. A lot of people who are on more years of tenure tend to opt for paperless billing. Long tenure users also tend to take device protection plans and also online backup plans. 
 
-Fiber optic connection: Since monthly charges are highly correlated with whether someone has a fiber optic connection or not, it may be beneficial for the company to promote and offer fiber optic connections to their customers. This could attract more customers and potentially increase revenue.
+* __Fiber optic connection:__ Since monthly charges are highly correlated with whether someone has a fiber optic connection or not, it may be beneficial for the company to promote and offer fiber optic connections to their customers. This could attract more customers and potentially increase revenue.
 
-Streaming TV services: Since whether someone opted for streaming TV services also determines their monthly charge, it may be worthwhile for the company to offer bundled packages that include both internet and streaming TV services. This could potentially increase customer satisfaction and retention.
+* __Streaming TV services:__ Since whether someone opted for streaming TV services also determines their monthly charge, it may be worthwhile for the company to offer bundled packages that include both internet and streaming TV services. This could potentially increase customer satisfaction and retention.
 
-Paperless billing: Since long tenure users tend to opt for paperless billing, the company should promote and encourage paperless billing to their customers. This could not only save costs on printing and mailing bills, but also promote environmental sustainability.
+* __Paperless billing:__ Since long tenure users tend to opt for paperless billing, the company should promote and encourage paperless billing to their customers. This could not only save costs on printing and mailing bills, but also promote environmental sustainability.
 
-Device protection plans and online backup plans: Since long tenure users tend to take device protection plans and online backup plans, the company should consider offering such plans to their new customers as well. This could potentially increase customer loyalty and retention.
+* __Device protection plans and online backup plans:__ Since long tenure users tend to take device protection plans and online backup plans, the company should consider offering such plans to their new customers as well. This could potentially increase customer loyalty and retention.
 
 Overall, by understanding the correlations between various features in the dataset, the company can make data-driven decisions and optimize their services to improve customer satisfaction and retention.
 
