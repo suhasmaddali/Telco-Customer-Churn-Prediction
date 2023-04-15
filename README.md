@@ -174,7 +174,7 @@ Below are some recommendations that could be followed in order to reduce the chu
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Device%20protection%20total%20charges.jpg"/>
 
-Heatmaps give a good representation about the correlation between various features in our dataset. Monthly charges are highly correlated with whether someone has a fiber optic connection or not. In addition, whether someone opted for streaming TV services also determines their monthly charge. A lot of people who are on more years of tenure tend to opt for paperless billing. Long tenure users also tend to take device protection plans and also online backup plans. 
+Heatmaps show that monthly charges are __strongly linked__ to fiber optic connection and streaming TV services. Long-time customers often choose paperless billing and device protection/online backup plans. To improve customer satisfaction, the company should consider promoting fiber optic connections, bundling internet and streaming TV services, and encouraging paperless billing for new customers. Highlighting device protection and online backup plans can increase customer loyalty.
 
 * __Fiber optic connection:__ Since monthly charges are highly correlated with whether someone has a fiber optic connection or not, it may be beneficial for the company to promote and offer fiber optic connections to their customers. This could attract more customers and potentially increase revenue.
 
