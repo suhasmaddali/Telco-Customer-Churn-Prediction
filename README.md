@@ -188,7 +188,7 @@ Overall, by understanding the correlations between various features in the datas
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Heatmap%20correlation.jpg"/>
 
-Principal Component Analysis (PCA) can be used to determine the optimal number of components necessary for predicting whether customers are likely to churn. By analyzing the below plot, we can conclude that approximately 15 components are sufficient to account for 90% of the variance in the dataset. This approach of selecting a reduced number of features can help to avoid the problem of the "curse of dimensionality", which can arise when working with high-dimensional data.
+__Principal Component Analysis (PCA)__ can be used to determine the optimal number of components necessary for predicting whether customers are likely to churn. By analyzing the below plot, we can conclude that approximately 15 components are sufficient to account for 90% of the variance in the dataset. This approach of selecting a reduced number of features can help to avoid the problem of the "curse of dimensionality", which can arise when working with high-dimensional data.
 
 In summary, PCA enables us to identify the most important components for predicting customer churn, and selecting a smaller number of features can help to overcome the challenges associated with high-dimensional data.
 
