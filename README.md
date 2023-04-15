@@ -188,6 +188,8 @@ Overall, by understanding the correlations between various features in the datas
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Heatmap%20correlation.jpg"/>
 
+With the help of PCAs, it is possible to determine the best number of components that are useful for making predictions whether customers are going to churn or not. Based on the plot below, we can assume that about 15 components explain about 90 percent of the variance in the dataset. In this way of selecting the less number of features, we can avoid the curse of dimensionality that occurs as a result of having higher dimensional features. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/PCA%20Plot.jpg"/>
 
 ## Future Scope
