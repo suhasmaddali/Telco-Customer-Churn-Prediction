@@ -204,7 +204,7 @@ __K Nearest Neighbors (KNN):__ We will take a look at the performance of ML mode
 
 The AUC score for the classifier is about 0.76 respectively. It does a decent job of classifying whether customers are going to churn from the service or not. We can also explore other models that can also improve AUC scores even further. 
 
-<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/K%20neighbors%20classifier%20auc%20curves.jpg"/>
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/k%20neighbors%20classifier%20auc%20scores%20new.jpg"/>
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
