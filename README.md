@@ -200,6 +200,8 @@ We will take a look at the performance of ML models on the test data. Confusion 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/K%20neighbors%20classifier%20confusion%20matrix.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/K%20neighbors%20classifier%20auc%20curves.jpg"/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
