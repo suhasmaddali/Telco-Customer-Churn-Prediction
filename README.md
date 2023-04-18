@@ -194,6 +194,10 @@ In summary, PCA enables us to identify the most important components for predict
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/PCA%20Plot.jpg"/>
 
+__ML Model Performance:__
+
+We will take a look at the performance of ML models on the test data. Confusion matrix gives a good representation of the total number of true positives, true negatives, false positives and false negatives. In addition, this can also help determine the total accuracy, precision, recall and f1-scores using formulas. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/K%20neighbors%20classifier%20confusion%20matrix.jpg"/>
 
 ## Future Scope
