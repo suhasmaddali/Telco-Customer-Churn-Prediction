@@ -210,6 +210,8 @@ The support vector classifier does a decent job of classifying whether the custo
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Support%20vector%20classifier.jpg"/>
 
+The AUC of the classifier was about 0.87 respectively. It did a good job of classifying whether customers are going to churn or not. We can also explore a list of other models that could be deployed in real-time with good accuracy, precision, recall and f1-score. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20Support%20Vector%20Classifier.jpg"/>
 
 ## Future Scope
