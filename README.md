@@ -206,13 +206,17 @@ The AUC score for the classifier is about 0.76 respectively. It does a decent jo
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/k%20neighbors%20classifier%20auc%20scores%20new.jpg"/>
 
-The support vector classifier does a decent job of classifying whether the customers are going to churn or not. The performance is quite equivalent to both the classes of churn and non-churn respectively. 
+__Support Vector Classifier:__ The support vector classifier does a decent job of classifying whether the customers are going to churn or not. The performance is quite equivalent to both the classes of churn and non-churn respectively. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Support%20vector%20classifier.jpg"/>
 
 The AUC of the classifier was about 0.87 respectively. It did a good job of classifying whether customers are going to churn or not. We can also explore a list of other models that could be deployed in real-time with good accuracy, precision, recall and f1-score. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20Support%20Vector%20Classifier.jpg"/>
+
+__Logistic Regression:__ Let us explore another simple model called logistic regression that could be deployed easily in real-time. We tend to see a good performance on the test data from the confusion matrix. We can also see how well it does with the AUC metric. 
+
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Logistic%20regression%20confusion%20matrix.jpg">
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
