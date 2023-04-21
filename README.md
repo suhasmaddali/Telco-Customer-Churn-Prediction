@@ -206,7 +206,7 @@ The AUC score for the classifier is about 0.76 respectively. It does a decent jo
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/k%20neighbors%20classifier%20auc%20scores%20new.jpg"/>
 
-The support vector classifier does a decent job of classifying whether the customers are going to churn or not. 
+The support vector classifier does a decent job of classifying whether the customers are going to churn or not. The performance is quite equivalent to both the classes of churn and non-churn respectively. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Support%20vector%20classifier.jpg"/>
 
