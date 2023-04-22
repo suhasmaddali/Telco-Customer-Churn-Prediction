@@ -226,6 +226,10 @@ __Decision Tree Classifier:__ Looks like there are quite a few misclassification
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Confusion%20matrix%20decision%20tree%20classifier.jpg"/>
 
+The AUC of the classifier is also quite lower as compared to ther models. In addition, the false negatives are also higher in this model which could possibly lead to loss in the business opportunity. 
+
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20decision%20tree%20classifier.jpg"/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
