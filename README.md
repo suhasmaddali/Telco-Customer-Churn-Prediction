@@ -218,6 +218,8 @@ __Logistic Regression:__ Let us explore another simple model called logistic reg
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Logistic%20regression%20confusion%20matrix.jpg">
 
+The AUC of the classifier came out to be about 0.86 respectively. This is a good improvement in the performance as compared to the previous models we have experimented and used in determining the customer churn. We can also test other classifiers that are complex and which can better capture the underlying distribution of data. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20logistic%20regression.jpg">
 
 ## Future Scope
