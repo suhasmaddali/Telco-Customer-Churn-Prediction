@@ -222,6 +222,8 @@ The AUC of the classifier came out to be about 0.86 respectively. This is a good
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20logistic%20regression.jpg">
 
+__Decision Tree Classifier:__ Looks like there are quite a few misclassifications given by the model. There are quite a few false negatives which can have an impact on the business. This is because the model is not doing well on the classes who are going to churn. But we can also look for a list of other models to determine the best one to be deployed in real-time. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Confusion%20matrix%20decision%20tree%20classifier.jpg"/>
 
 ## Future Scope
