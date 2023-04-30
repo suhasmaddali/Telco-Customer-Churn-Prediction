@@ -244,6 +244,8 @@ While the model performs well on the test set, it falls short in accurately iden
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Random%20forest%20confusion%20matrix.jpg"/>
 
+The AUC of the random forest classifier is about 0.88 which is better than the other models that we have considered and used in our machine learning problem. As noted, however, the model fails to capture important the class that is likely to churn as compared to other models. Therefore, we would need to be used better models that can capture this variable more accurately. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20random%20forest.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Xgboost%20confusion%20matrix.jpg"/>
