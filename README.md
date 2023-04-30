@@ -234,6 +234,8 @@ The gaussian naive bayes classifier is quite popular and can be used for custome
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Naive%20bayes%20confusion%20matrix.jpg"/>
 
+The classifier has an AUC of 0.83, which is a significant improvement compared to many other models we have previously tested. However, it's important to note that there is no universally optimal model for all tasks. Depending on the specific task and dataset, even simpler classifiers can outperform more complex ones.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20Naive%20bayes.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Random%20forest%20confusion%20matrix.jpg"/>
