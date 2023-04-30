@@ -230,7 +230,7 @@ The AUC of the classifier is also quite lower as compared to ther models. In add
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20decision%20tree%20classifier.jpg"/>
 
-The gaussian naive bayes classifier is quite popular and can be used for customer churn prediction. The model does a decent job in classifying whether customers are going to leave or stay in the service. The false negatives are low, which means that it is capable of identifying accurately the customers who can churn. 
+__Gaussian Naive Bayes Classifier:__ The gaussian naive bayes classifier is quite popular and can be used for customer churn prediction. The model does a decent job in classifying whether customers are going to leave or stay in the service. The false negatives are low, which means that it is capable of identifying accurately the customers who can churn. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Naive%20bayes%20confusion%20matrix.jpg"/>
 
@@ -238,6 +238,7 @@ The classifier has an AUC of 0.83, which is a significant improvement compared t
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20Naive%20bayes.jpg"/>
 
+Random forest classifier 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Random%20forest%20confusion%20matrix.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20random%20forest.jpg"/>
