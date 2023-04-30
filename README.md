@@ -230,6 +230,8 @@ The AUC of the classifier is also quite lower as compared to ther models. In add
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20decision%20tree%20classifier.jpg"/>
 
+The AUC of the classifier came out to be 0.73 respectively. This means that the performance is decent and steps could be taken to improve it further by other machine learning models. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Naive%20bayes%20confusion%20matrix.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20Naive%20bayes.jpg"/>
