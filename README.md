@@ -238,7 +238,10 @@ The classifier has an AUC of 0.83, which is a significant improvement compared t
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20Naive%20bayes.jpg"/>
 
-Random forest classifier 
+__Random forest classifier:__ This classifier has a reputation for excelling in a variety of machine learning tasks and exhibiting high robustness to variance. In models like decision trees, which rely on simplistic if-else conditions to navigate through the tree structure, high variance may occur when data dimensionality is high or the training examples are significantly fewer than the total number of dimensions in the data. Random forest, on the other hand, employs numerous decision trees in concert to produce the final classification output, effectively mitigating the issue of high variance.
+
+While the model performs well on the test set, it falls short in accurately identifying cases of customer churn. This presents a critical concern for the business, as failing to identify and address these customers can result in a significant loss of revenue. Therefore, it is crucial to prioritize and allocate more resources towards identifying and retaining these customers.
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Random%20forest%20confusion%20matrix.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20random%20forest.jpg"/>
