@@ -256,7 +256,8 @@ The AUC of the classifier came out to be about 0.92 for the xgboost classifier. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/xgboost%20roc%20curves.jpg"/>
 
-__Hyperparameter Tuned Random Forest Classifier:__
+__Hyperparameter Tuned Random Forest Classifier:__ After performing the step of hyperparameter tuning and optimization, the random forest model does a great job in lowering the number of false positives and false negatives in our data of customer churn. In fact, it does better than the xgboost model that we have used above. Hence, we can deploy this model in real-time for determining the churn rate of customers. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned%20roc%20curves.jpg"/>
