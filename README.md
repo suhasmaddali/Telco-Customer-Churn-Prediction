@@ -248,6 +248,8 @@ With an AUC of approximately 0.88, the random forest classifier outperforms the 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/AUC%20random%20forest.jpg"/>
 
+__XGB Classifier:__ After looking at the confusion matrix of xgboost classifier, it could be found that there are only quite a few false positives and false negatives. Therefore, this model is performing quite well. There are about 270 false positives which means that the model does a decent job of identifying people who are going to churn from various services. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Xgboost%20confusion%20matrix.jpg"/>
 
 ## Future Scope
