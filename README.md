@@ -260,7 +260,11 @@ __Hyperparameter Tuned Random Forest Classifier:__ After performing the step of 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned.jpg"/>
 
+The AUC of the classifier came out to be about 0.93 which is better than all the models we have tested so far. Furthermore, it has the highest f1 score for both the classes. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned%20roc%20curves.jpg"/>
+
+After performing feature engineering along with model experimentation, it can be found that the hyperparameter tuned random forest is performing the best on the test set (unseen data). We can expect the performance to be quite similar in real-world assuming that the distribution of the test data is similar to the distribution of the real-time data. 
 
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
