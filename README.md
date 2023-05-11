@@ -256,6 +256,8 @@ __XGB Classifier:__ After looking at the confusion matrix of xgboost classifier,
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned%20roc%20curves.jpg"/>
+
 ## Future Scope
 * Additional features such as the __location__ of the customer could be added which would also help in determining whether a person is going to stay in the __telco service or not__.
 * __More training data__ could be collected to ensure that we get better prediction outcomes. 
