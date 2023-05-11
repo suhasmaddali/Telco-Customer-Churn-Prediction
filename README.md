@@ -256,6 +256,7 @@ The AUC of the classifier came out to be about 0.92 for the xgboost classifier. 
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/xgboost%20roc%20curves.jpg"/>
 
+__Hyperparameter Tuned Random Forest Classifier:__
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned%20roc%20curves.jpg"/>
