@@ -252,6 +252,8 @@ __XGB Classifier:__ After looking at the confusion matrix of xgboost classifier,
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/Xgboost%20confusion%20matrix.jpg"/>
 
+The AUC of the classifier came out to be about 0.92 for the xgboost classifier. Overall, it does a good job in identifying people who are going to churn from services. This model has the highest AUC as compared to the other models that we have tried so far. In addition, the model have few false positives and false negatives which is good for our application. However, xgboost model is not as interpretable as compared to decision trees or random forests. Therefore, we can use random forest classifier to determine the total churn rate of customers. 
+
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/xgboost%20roc%20curves.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction/blob/main/Plots/random%20forest%20hyperparameter%20tuned.jpg"/>
