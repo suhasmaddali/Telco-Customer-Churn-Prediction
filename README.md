@@ -12,6 +12,8 @@ __Telephone__ company, also known as __telco__, is a telecommunications provider
 
 Since __Telco__ gets a lot of customers who __subscribe__ to their service, it is handy if we are able to predict whether a __customer__ is going to __churn (leave the service)__ within a span of a few days. Furthermore, it would be great if we could consider factors that are __influential__ in the churn of customers such as the __type of billing__, __age__ and whether they have a __partner or not__. After taking a look at these factors and many others which influence customer churn, they might come up with plans that ensure customers do not leave their services.
 
+By understanding the key factors that influence the customer behavior, additional steps could be taken to ensure that they stay on the service and thus, generating profits. 
+
 ## Exploratory Data Analysis (EDA)
 
 * Based on the __exploratory data analysis (EDA)__, it was found that the monthly charges for customers are highly correlated with whether the customers opted for a fiber optic connection.
